@@ -28,7 +28,7 @@ Interest in working on backend data services.
 
 I will split my learning into similar spaces as Google presents their required experience for their candidates.
 
- - [algorithms](algorithms/algoIntro.md)
+ - [algorithms](algorithms/README.md)
  - computer science
  - data structures
  - software design
